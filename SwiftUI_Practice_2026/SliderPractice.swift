@@ -16,7 +16,3 @@ struct SliderView: View {
         
     }
 }
-
-#Preview {
-    SliderView()
-}
